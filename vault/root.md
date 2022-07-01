@@ -2,7 +2,7 @@
 id: ik5Bi5OCTsmfKfq5JQtEB
 title: PHASED - Philosophy as Education
 desc: 'Home page for PHASED.'
-updated: 1656690879072
+updated: 1656691547020
 created: 1637610830605
 ---
 # Welcome
@@ -42,7 +42,7 @@ The logo was designed and created by [Mairead McKay](http://maireadmckay.com/) (
 
 ![Happiness is like a butterfly](assets/images/HappinessButtefly.png)
 
-I appreciate this poem as the centrepiece to my thought and as one of the ways around which my understanding develops. As per the beauty of poetry, I always see something new in this text. To quote Hans-Georg Gadamer, it is education as _poetic dwelling_, or as he puts it directly, a _living in poetry_: 
+I appreciate this poem as the centrepiece to my thought and as one of the ways around which my understanding develops. As per the beauty of poetry, I always see something new in this text. This is education as _poetic dwelling_, or as Hans-Georg Gadamer puts it, a _living in poetry_: 
 
 ![[quotes.education#^living-poetry]]
 
