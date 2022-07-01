@@ -23,6 +23,8 @@ workspace:
     vaults:
         -
             fsPath: vault
+            name: dendron-netlify
+            sync: sync
     journal:
         dailyDomain: daily
         name: journal
@@ -66,7 +68,8 @@ workspace:
     dendronVersion: 0.87.0
     enableEditorDecorations: true
 preview:
-    enableFMTitle: true
+    enableFMTitle: false
+    useFMTitle: false
     enableNoteTitleForLink: true
     enableMermaid: true
     enablePrettyRefs: true
@@ -81,6 +84,13 @@ publishing:
     enablePrettyRefs: true
     enableKatex: true
     copyAssets: true
+    site:
+        title: PHASED
+        description: PHASED is my personal digital garden. The site is published using Dendron, deployed on Netlify.
+        author: Joey McKay
+        logo: vault/assets/images/logo/PEButterfly_3_medium.gif
+        siteFaviconPath: vault/assets/images/logo/favicon.ico
+        siteUrl: 'https://philosophy.education'
     siteHierarchies:
         - root
     enableSiteLastModified: true
