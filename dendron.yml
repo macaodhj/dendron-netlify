@@ -88,8 +88,8 @@ publishing:
         title: PHASED
         description: PHASED is my personal digital garden. The site is published using Dendron, deployed on Netlify.
         author: Joey McKay
-        logo: PEButterfly_3.fw.png
-        siteFaviconPath: favicon.ico
+        logo: assets/images/logo/PEButterfly_3.fw.png
+        siteFaviconPath: assets/images/logo/favicon.ico
         siteUrl: 'https://philosophy.education'
     siteHierarchies:
         - root
