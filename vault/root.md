@@ -1,8 +1,8 @@
 ---
 id: ik5Bi5OCTsmfKfq5JQtEB
-title: Root
-desc: ''
-updated: 1656689961134
+title: PHASED - Philosophy as Education
+desc: 'Home page for PHASED.'
+updated: 1656690879072
 created: 1637610830605
 ---
 # Welcome

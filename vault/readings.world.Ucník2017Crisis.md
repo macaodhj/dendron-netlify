@@ -1,0 +1,15 @@
+---
+id: q9p2aliglfcez2s3ercf41u
+title: Lubica Ucník, The Crisis of Meaning and the Life-World
+desc: ''
+updated: 1651574166137
+created: 1651573328927
+---
+* **Author**: Lubica Ucník
+* **Title**: The Crisis of Meaning and the Life-World: Husserl, Heidegger, Arendt, Patocka
+* **Amazon link**: [The Crisis of Meaning and the Life-World](https://www.amazon.co.uk/Crisis-Meaning-Life-World-Heidegger-Continental/dp/0821422480/ref=sr_1_1?keywords=The+Crisis+of+Meaning+and+the+Life-World&link_code=qs&qid=1645269275&sourceid=Mozilla-search&sr=8-1)
+* **Publisher**: Ohio University Press
+* **Abstract**: In The Crisis of Meaning and the Life-World, Lubica Ucnik examines the existential conflict that formed the focus of Edmund Husserl's final work, which she argues is very much with us today: how to reconcile scientific rationality with the meaning of human existence. To investigate this conundrum, she places Husserl in dialogue with three of his most important successors: Martin Heidegger, Hannah Arendt, and Jan Patocka. For Husserl, 1930s Europe was characterized by a growing irrationalism that threatened to undermine its legacy of rational inquiry. Technological advancement in the sciences, Husserl argued, had led science to forget its own foundations in the primary "life-world": the world of lived experience. Renewing Husserl's concerns in today's context, Ucnik first provides an original and compelling reading of his oeuvre through the lens of the formalization of the sciences, then traces the unfolding of this problem through the work of Heidegger, Arendt, and Patocka. Although many scholars have written on Arendt, none until now has connected her philosophical thought with that of Czech phenomenologist Jan Patocka. Ucnik provides invaluable access to the work of the latter, who remains understudied in the English language. She shows that together, these four thinkers offer new challenges to the way we approach key issues confronting us today, providing us with ways to reconsider truth, freedom, and human responsibility in the face of the postmodern critique of metanarratives and a growing philosophical interest in new forms of materialism.
+* **Cover image**:
+![](/assets/images/2022-05-03-11-25-34.png)
+* **Why I am reading this**: I have never heard of Jan Patocka, however, the other three figures, Husserl, Heidegger, and Arendt are pivotal to my own work. In developing my understanding of the world, a key phenomenon worthy of note is worldlessness, which succinctly put is a form of world alienation characterised by two dynamics, or bifurcation of the self: 1. a flight from natural earth; and 2. a retreat from the world into the inner self. What we can see here is the perpetuation of the inner-outter division of the self rather than the path towards integration - here I am reminded of Edmund Husserl's attempts to overcome this division which he envisioned through a phenomenological understanding of experience, namely as that lived in and through the lifeworld.
