@@ -92,10 +92,10 @@ publishing:
     #siteFaviconPath: images/logo/favicon.ico
     #siteUrl: 'https://philosophy.education'
     siteHierarchies:
-        # - root
-        - PHASED - Philosophy as Education
-        - readings
-        - quotes
+        - root
+        #- PHASED - Philosophy as Education
+        #- readings
+        #- quotes
     enableSiteLastModified: true
     siteRootDir: docs
     enableFrontmatterTags: true
@@ -110,7 +110,7 @@ publishing:
         title: Philosophy as Education
         description: PHASED Philosophy as Education; Personal knowledge space or digital garden.
         author: Joey McKay
-        twitter: https://twitter.com/joeyphased
+        #twitter: https://twitter.com/joeyphased
         #image:
         #    url: >-
         #        https://www.philosophy.education/assets/images/logo/PEButterfly_2.fw.png
