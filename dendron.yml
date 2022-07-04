@@ -84,15 +84,18 @@ publishing:
     enablePrettyRefs: true
     enableKatex: true
     copyAssets: true
-    site:
-        title: PHASED
-        description: PHASED is my personal digital garden. The site is published using Dendron, deployed on Netlify.
-        author: Joey McKay
-        logo: assets/images/logo/PEButterfly_3.fw.png
-        siteFaviconPath: assets/images/logo/favicon.ico
-        siteUrl: 'https://philosophy.education'
+    # site:
+    #    title: PHASED
+    #    description: PHASED is my personal digital garden. The site is published using Dendron, deployed on Netlify.
+    #    author: Joey McKay
+    logoPath: assets/images/logo/PEButterfly_2.fw.png
+    siteFaviconPath: assets/images/logo/favicon.ico
+    siteUrl: 'https://philosophy.education'
     siteHierarchies:
         - root
+     hierarchy:
+        templates:
+            publishByDefault: false    
     enableSiteLastModified: true
     siteRootDir: docs
     enableFrontmatterTags: true
@@ -105,7 +108,13 @@ publishing:
     writeStubs: false
     seo:
         title: Philosophy as Education
-        description: Personal knowledge space or digital garden.
+        description: PHASED Philosophy as Education; Personal knowledge space or digital garden.
+        author: Joey McKay
+        twitter: https://twitter.com/joeyphased
+        #image:
+        #    url: >-
+        #        https://www.philosophy.education/assets/images/logo/PEButterfly_2.fw.png
+        #    alt: PHASED abstract butterfly and pages by Mairead McKay
     github:
         enableEditLink: true
         editLinkText: Edit this page on GitHub
