@@ -92,10 +92,10 @@ publishing:
     siteFaviconPath: assets/images/logo/favicon.ico
     siteUrl: 'https://philosophy.education'
     siteHierarchies:
-        - root
-     hierarchy:
-        templates:
-            publishByDefault: false    
+        # - root
+        - PHASED - Philosophy as Education
+        - readings
+        - quotes
     enableSiteLastModified: true
     siteRootDir: docs
     enableFrontmatterTags: true
