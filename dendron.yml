@@ -111,10 +111,10 @@ publishing:
         description: PHASED Philosophy as Education; Personal knowledge space or digital garden.
         author: Joey McKay
         twitter: https://twitter.com/joeyphased
-        image:
-            url: >-
-                https://www.philosophy.education/assets/images/logo/PEButterfly_2.fw.png
-            alt: PHASED abstract butterfly and pages by Mairead McKay
+        #image:
+        #    url: >-
+        #        https://www.philosophy.education/assets/images/logo/PEButterfly_2.fw.png
+         #   alt: PHASED abstract butterfly and pages by Mairead McKay
     github:
         enableEditLink: true
         editLinkText: Edit this page on GitHub
